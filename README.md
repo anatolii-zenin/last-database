@@ -16,7 +16,7 @@ $sudo service mysql stop
 $sudo killall mysqld
 $sudo chown -R mysql:mysql /var/lib/mysql
 $sudo mysqld_safe --skip-grant-tables #(might have to use chown for another folder if you get an error)
-$sudo mysql -u root -p <br>
+$sudo mysql -u root -p 
 ```
 in mysql: <br>
 ```
