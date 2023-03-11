@@ -1,3 +1,4 @@
+(was stored in DESY gitlab for 2 years)
 # LAST Polarisation Database
 
 A tool for storing all observation data in a single database with two tables:
