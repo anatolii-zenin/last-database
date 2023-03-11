@@ -22,7 +22,7 @@ in mysql: <br>
 ```
 mysql> update mysql.user set authentication_string=password('NEWPASSWORD') where user='root'; #(replace "NEWPASSWORD" with your password)
 mysql> flush privileges;
-mysql> quit <br>
+mysql> quit
 ```
 back in shell: <br>
 ```
